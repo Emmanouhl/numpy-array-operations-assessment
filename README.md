@@ -1,5 +1,3 @@
-# numpy-array-operations-assessment
-Hands-on NumPy practice: arrays, broadcasting &amp; element-wise math applied to real-world-style weather and sales datasets.
 # Introduction to NumPy — Hands-On Practice
 
 A beginner-friendly Jupyter Notebook project that walks through the fundamentals of **NumPy**, Python's core library for numerical computing. The notebook progresses from basic array creation to element-wise arithmetic, broadcasting, and two mini real-world projects analyzing weather/temperature data.
